@@ -1,6 +1,6 @@
 {
   "name": "listen-on-free-port",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find a free port and listen on it",
   "main": "index.js",
   "scripts": {
