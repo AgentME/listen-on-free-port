@@ -1,12 +1,13 @@
 {
   "name": "listen-on-free-port",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Find a free port and listen on it",
   "main": "index.js",
   "scripts": {
     "prepublish": "babel -s inline -d js/ src/ && flow-copy-source -v src js",
     "test": "mocha"
   },
+  "main": "js/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AgentME/listen-on-free-port.git"
