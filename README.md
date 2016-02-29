@@ -1,5 +1,8 @@
 # listen-on-free-port
 
+[![Circle CI](https://circleci.com/gh/AgentME/listen-on-free-port.svg?style=shield)](https://circleci.com/gh/AgentME/listen-on-free-port)
+[![npm version](https://badge.fury.io/js/listen-on-free-port.svg)](https://badge.fury.io/js/llisten-on-free-port)
+
 This module exports a function for finding a free port and listening to on it.
 
 This module differs from other similar modules like
